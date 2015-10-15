@@ -10,4 +10,4 @@ def home():
     return "Hello world!"
 
 
-run(host='localhost', port=PORT)
+run(host='0.0.0.0', port=PORT)
