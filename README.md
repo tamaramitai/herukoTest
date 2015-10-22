@@ -1,4 +1,4 @@
-To create a simple bottle + python project from scratch:
+To create a simple bottle + heroku project from scratch:
 
 * `git init`
 * `pip install bottle`
@@ -12,3 +12,9 @@ To create a simple bottle + python project from scratch:
 * Use `heroku create` to create an app on your heroku account.
 * `git push heroku master`.  Check the output of the command!
 * `git open`, sit back and enjoy :-)
+
+
+Resources:
+
+* [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
+* [bottle](http://bottlepy.org/docs/dev/index.html)
